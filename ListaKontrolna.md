@@ -15,11 +15,11 @@
 - Treść głownej strony
 - Treść przpierwszej pyczyny 
 - Treść pierwszego rozwiązana
-
-## Do zrobienia 
 - Treść drugiej przyczyny
 - Treść drugiego rozwiązania
 - Treść ostatniej strony gdzie urzytkownik bedzie mógł wpisać swój pomysł na pomoc ziemi a on bedzie się pokazywać na głownej stronie
+- Lista dobrych wieści
+
+## Do zrobienia 
 - Wygląd strony
 - Grafiki
-- Lista dobrych wieści
