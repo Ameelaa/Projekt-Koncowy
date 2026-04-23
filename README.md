@@ -6,3 +6,8 @@
 - Na koncu bedzie pole do wpisania swojego  pomysłu indywidualnego który bedzie pokazywany na ostatniej stronie 
 ## Adresy obrazów użytych na stronie
 ### https://inzynieria.com/uploaded/articles/crop_5/65615.jpg
+### https://blog.swiatbaterii.pl/wp-content/uploads/2021/10/ekologiczny-transport.jpg
+### https://lh4.googleusercontent.com/proxy/CqAkS7xQMd6Pr8XfOYZAQ8NWPfdgFqE8CaX9eTN8OjtSPz2fHwB-lNr6YGhD5HZ4x7G0Axq87IUKVxBvnl2FMZkk0oTq0Gt--8qPRkhGvhAPhhRDFwkfUg
+### https://university.open.ac.uk/estates/sites/www.open.ac.uk.estates/files/images/Green%20EV%20car.jpg
+### https://one-more-tree.org/pl/wp-content/uploads/sites/3/2024/03/616.jpg
+### https://www.agro-siec.pl/wp-content/uploads/2025/03/planting-tree-garden-768x430.jpg
