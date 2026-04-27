@@ -4,16 +4,16 @@
 - Strona ta bedzie powiększać świadomość uzytkownikowi jak bardzo szkodliwe są niektore rzeczy które na codzień robimy
 - Na końcu będzie pole do wpisania swojego indywidualnego pomysłu który bedzie pokazywany niżej i dobre wiadomości na temat walki z mianami klimatu
 
-##Po kolei
-###Strona Główna
+## Po kolei
+### Strona Główna
 - Opisuje czym jest zmiana klimatu i co powoduje
-###Pierwszy powód
+### Pierwszy powód
 - Emisja gazów cieplarnianych
-###Rozwiązanie
-###Drugi Powód
+### Rozwiązanie
+### Drugi Powód
 - Wylesianie
-###Rozwiązanie
-###Końcowa strona gdzie mamy do losowania dobre wiadomości oraz miejsce na wpis swojego pomysłu
+### Rozwiązanie
+### Końcowa strona gdzie mamy do losowania dobre wiadomości oraz miejsce na wpis swojego pomysłu
 
 ## Adresy obrazów użytych na stronie
 ### https://inzynieria.com/uploaded/articles/crop_5/65615.jpg
