@@ -1,0 +1,671 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+
+body {
+    height: 100vh;
+    margin: 0;
+    animation: gradientShift 10s ease infinite;
+    background: linear-gradient(90deg, #ffffff, #ffffff);
+    background-size: 400% 400%;
+    background: url('drzewa.png') center / cover no-repeat;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+
+
+.back2 {
+    height: 140vh;
+    margin: 0;
+    background: linear-gradient(90deg, #ffffff, #ffffff);
+    background-size: 400% 400%;
+    background: url('drzewa.png') center / cover no-repeat;
+}
+
+.back1{
+    height: 180vh;
+    margin: 0;
+    background: linear-gradient(90deg, #ffffff, #ffffff);
+    background-size: 400% 400%;
+    background: url('white.jpg') center / cover no-repeat;
+}
+
+h1 {
+    position: absolute;
+    font-size:90px;
+    top: 20px;
+    left: 70px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 77, 51),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h2 {
+    position: absolute;
+    font-size:90px;
+    top: 40px;
+    left: 70px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 77, 51),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h3 {
+    position: absolute;
+    font-size:30px;
+    top: 160px;
+    left: 70px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 77, 51),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h4 {
+    position: absolute;
+    font-size:35px;
+    top: 250px;
+    left: 70px;
+    color: #5eff78;
+    text-shadow: 0 0 10px rgb(2, 63, 25),0 0 20px rgb(1, 63, 32);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h5 {
+    position: absolute;
+    font-size:30px;
+    top: 300px;
+    left: 70px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(4, 97, 1),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h6 {
+    position: absolute;
+    font-size:25px;
+    top: 385px;
+    left: 70px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(26, 68, 1),0 0 20px rgb(0, 78, 17);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h7 {
+    position: absolute;
+    font-size:45px;
+    top: 440px;
+    left: 650px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 165, 8),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h8 {
+    position: absolute;
+    font-size:25px;
+    top: 520px;
+    left: 40px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(0, 77, 51),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(8, 83, 1);
+    background: rgb(0, 136, 29);
+    font-size: 2rem;
+    padding: 15px 40px;
+    border-radius: 30px;
+    
+}
+
+.przyczyna1 {
+    position: absolute;
+    display: inline-block;
+    top: 800px;
+    left: 450px;
+    padding: 15px 40px;
+    background: rgb(120, 255, 150);
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(0, 87, 19);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.przyczyna1{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgb(8, 83, 1);
+}
+
+
+h9 {
+    position: absolute;
+    font-size:90px;
+    top: 20px;
+    left: 460px;
+    color: #b5ffaf;
+    text-shadow: 0 0 10px rgb(0, 197, 26),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h10 {
+    position: absolute;
+    font-size:40px;
+    top: 160px;
+    left: 670px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(124, 250, 135),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+
+h11 {
+    position: absolute;
+    font-size:25px;
+    top: 240px;
+    left: 40px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(67, 5, 124),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(8, 83, 1);
+    background: rgb(0, 136, 29);
+    font-size: 2rem;
+    padding: 15px 40px;
+    border-radius: 30px;
+    
+}
+
+h12 {
+    position: absolute;
+    font-size:70px;
+    top: 430px;
+    left: 970px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(59, 178, 247),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(29, 114, 184);
+    background: rgb(29, 114, 184);
+    font-size: 3rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+.CO{ 
+    position: absolute;
+    width: 900px;
+    height: auto;
+    left:30px;
+    top:400px;
+
+}
+
+h13 {
+    position: absolute;
+    font-size:33px;
+    top: 920px;
+    left: 30px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(24, 9, 114),0 0 20px rgb(18, 2, 54);
+    animation: glow 2s infinite alternate;
+    
+}
+
+.rozwiązanie1 {
+    position: absolute;
+    display: inline-block;
+    top: 1000px;
+    left: 570px;
+    padding: 15px 40px;
+    background: rgb(2, 9, 107);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(255, 125, 74);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.rozwiązanie1{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgb(44, 121, 238);
+}
+
+.przyczyna2{
+    position: absolute;
+    display: inline-block;
+    top: 1670px;
+    left: 500px;
+    padding: 15px 40px;
+    background: rgb(104, 179, 116);
+    color: rgb(39, 124, 65);
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(255, 255, 255);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.przyczyna2{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgb(39, 124, 65);
+}
+
+h14{    
+    position: absolute;
+    font-size:45px;
+    top: 20px;
+    left: 40px;
+    color: #21741e;
+    text-shadow: 0 0 10px rgb(1, 97, 14),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h15{
+    position: absolute;
+    font-size:45px;
+    top: 90px;
+    left: 590px;
+    color: #3c6638;
+    text-shadow: 0 0 10px rgb(160, 255, 173),0 0 20px rgb(0, 0, 0);
+    animation: glow 2s infinite alternate;
+    
+}
+
+.eko{ 
+    position: absolute;
+    width: 1700px;
+    height: auto;
+    left:100px;
+    top:190px;
+
+}
+
+h16{
+    position: absolute;
+    font-size:45px;
+    top: 800px;
+    left: 40px;
+    color: #3c6638;
+    text-shadow: 0 0 10px rgb(160, 255, 173),0 0 20px rgb(0, 0, 0);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h17{
+    position: absolute;
+    font-size:45px;
+    top: 1500px;
+    left: 40px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(18, 104, 30),0 0 20px rgb(0, 0, 0);
+    animation: glow 2s infinite alternate;
+    
+}
+
+.bike{ 
+    position: absolute;
+    width: 500px;
+    height: auto;
+    left:40px;
+    top:1000px;
+
+}
+
+.car{ 
+    position: absolute;
+    width: 900px;
+    height: auto;
+    left:1000px;
+    top:950px;
+
+}
+
+h18{
+    position: absolute;
+    font-size:45px;
+    top: 1560px;
+    left: 40px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(4, 75, 13),0 0 20px rgb(0, 0, 0);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h19{
+    position: absolute;
+    font-size:60px;
+    top: 20px;
+    left: 300px;
+    color: #4c7948;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+.LAS{ 
+    position: absolute;
+    width: 900px;
+    height: auto;
+    left:1000px;
+    top:20px;
+
+}
+
+h20{
+    position: absolute;
+    font-size:45px;
+    top: 100px;
+    right: 900px;
+    color: #4c7948;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h21{
+    position: absolute;
+    font-size:45px;
+    top: 300px;
+    right: 900px;
+    color: #4c7948;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+h22{
+    position: absolute;
+    font-size:45px;
+    top: 700px;
+    left: 40px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 3rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+
+.rozwiazanie2 {
+    position: absolute;
+    display: inline-block;
+    top: 900px;
+    left: 600px;
+    padding: 15px 40px;
+    background: rgb(61, 114, 83);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(255, 125, 74);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.rozwiazanie2{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgb(61, 114, 83);
+}
+
+h23{
+    position: absolute;
+    font-size:60px;
+    top: 20px;
+    left: 800px;
+    color: #4c7948;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+
+.tree{ 
+    position: absolute;
+    width: 900px;
+    height: auto;
+    left:550px;
+    top:100px;
+
+}
+
+h24{
+    position: absolute;
+    font-size:45px;
+    top: 200px;
+    right: 1400px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+h25{
+    position: absolute;
+    font-size:45px;
+    top: 300px;
+    left: 1500px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+h26{
+    position: absolute;
+    font-size:45px;
+    top: 700px;
+    left: 20px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+h27{
+    position: absolute;
+    font-size:45px;
+    top: 800px;
+    left: 20px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}
+
+.twójpomysł {
+    position: absolute;
+    display: inline-block;
+    top: 900px;
+    left: 1200px;
+    padding: 15px 40px;
+    background: rgb(113, 207, 153);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 10rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(255, 255, 255);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+h28{
+    position: absolute;
+    font-size:60px;
+    top: 80px;
+    left: 500px;
+    color: #23572e;
+    text-shadow: 0 0 10px rgb(27, 102, 46),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+
+}
+
+.LOS {
+    position: absolute;
+    display: inline-block;
+    top: 300px;
+    left: 600px;
+    padding: 15px 40px;
+    background: rgb(117, 230, 126);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 2rem;
+    border-radius: 30px;
+    box-shadow: 0 0 15px rgb(255, 125, 74);
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.LOS{ 
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgb(61, 114, 83);
+}
+
+p1{
+    position: absolute;
+    font-size:45px;
+    top: 300px;
+    left: 760px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(126, 211, 115);
+    background: rgb(27, 102, 46);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}   
+
+h29{
+    position: absolute;
+    font-size:45px;
+    top: 500px;
+    left: 5px;
+    color: #23572e;
+    text-shadow: 0 0 10px rgb(61, 192, 79),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    
+}
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin-top: 1000px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+/* FORMULARZ */
+form {
+    position: absolute;
+    top: 600px; 
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* TEXTAREA */
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    resize: none;
+    font-size: 16px;
+}
+
+/* BUTTON */
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background: #2a642c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background: #388e3c;
+}
+
+
+
+
+h30{
+    position: absolute;
+    font-size:45px;
+    top: 850px;
+    left: 38%;
+    color: #ffffff;
+    text-align: center;
+    text-shadow: 0 0 10px rgb(255, 255, 255),0 0 20px rgb(54, 2, 43);
+    animation: glow 2s infinite alternate;
+    box-shadow: 0 0 25px rgb(58, 97, 63);
+    background: rgb(61, 114, 83);
+    font-size: 2rem;    
+    padding: 15px 40px;
+    border-radius: 30px;
+}   
+.pomysly {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.pomysl {
+    background:white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+
+    textarea {
+        height: 120px;
+    }
+}

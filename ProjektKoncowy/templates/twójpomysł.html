@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TwójPomysł!</title>
+    <link rel="stylesheet" href="{{url_for('static' , filename='style.css') }}">
+
+</head>  
+<body>
+
+<body>
+
+
+
+        <h28>Rzeczy które się zmieniły odkąd ludzie zaczeli brać do siebie jak bardzo poważna jest zmiana klimatu</h28>
+        <p1 id="DobraWiad">DobraWiadomość!</p1>
+        <button1 onclick="losuj()" class="LOS">🌳</button1>
+        <script>
+const fake = [
+    "Losuje. . .",
+    "Sprawdzam. . .",
+    "Analiza. . .",
+    "Mamy!"
+
+]
+function losuj(){
+
+let pole = document.getElementById("DobraWiad")
+
+let i = 0
+
+let animacja = setInterval(() => {
+
+pole.innerText = fake[i % fake.length]
+
+i++
+
+},100)
+
+fetch("/losuj")
+.then(response => response.json())
+.then(data => {
+
+setTimeout(() => {
+
+clearInterval(animacja)
+
+pole.innerText = data.DobraWiad
+
+},1200)
+
+})
+
+}
+
+
+        </script>
+
+<div class="container">
+
+        <h29>Poniżej jest miejsce do wpisania swoich pomysłów które pomogą w walce z zmiana klimatu! 🌳</h29>
+        <form method="POST">
+            <textarea name="pomysl" placeholder="Napisz swój pomysł..." required></textarea>
+            <button type="submit">Dodaj 🌿</button>
+        </form>
+
+
+        <h30>Pomysły użytkowników🌳:</h30>
+
+        <div class="pomysly">
+            {% for p in pomysly %}
+                <p class="pomysl">{{ p }}</p>
+            {% endfor %}
+        </div>
+
+
+        
+</div>
+</body>
+</html>
