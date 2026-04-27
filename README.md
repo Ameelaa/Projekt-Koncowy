@@ -1,9 +1,20 @@
-# Projekt-Końcowy
+# Projekt-Końcowy (Autorka : Amelia Komor)
 ## Projekt ten to strona internetowa napisana za pomocą Flask , Html , StyleCSS oraz JavaScript
-> Strona głowna - opisuje czym jest zmiana klimatu i co powoduje
-- Bedzie można przejść do kolejnej podstrony która bedzie opisywać rzecz która powoduje zmiany klimatyczne i pokazywać eko rozwiązania
-- Strona ta bedzie powiększać świadomość uzytkownikowi jak bardzo szkodliwe są niektore rzeczy ktore na codzień robimy
-- Na koncu bedzie pole do wpisania swojego  pomysłu indywidualnego który bedzie pokazywany na ostatniej stronie 
+- Bedzie można przejść do kolejnych podstron gdzie ich treść bedzie opisywać rzecz która powoduje zmiany klimatyczne i pokazywać eko rozwiązania
+- Strona ta bedzie powiększać świadomość uzytkownikowi jak bardzo szkodliwe są niektore rzeczy które na codzień robimy
+- Na końcu będzie pole do wpisania swojego indywidualnego pomysłu który bedzie pokazywany niżej i dobre wiadomości na temat walki z mianami klimatu
+
+##Po kolei
+###Strona Główna
+- Opisuje czym jest zmiana klimatu i co powoduje
+###Pierwszy powód
+- Emisja gazów cieplarnianych
+###Rozwiązanie
+###Drugi Powód
+- Wylesianie
+###Rozwiązanie
+###Końcowa strona gdzie mamy do losowania dobre wiadomości oraz miejsce na wpis swojego pomysłu
+
 ## Adresy obrazów użytych na stronie
 ### https://inzynieria.com/uploaded/articles/crop_5/65615.jpg
 ### https://blog.swiatbaterii.pl/wp-content/uploads/2021/10/ekologiczny-transport.jpg
