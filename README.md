@@ -13,7 +13,7 @@
 ### 4.Drugi Powód
 - Wylesianie
 ### 5.Rozwiązanie
-### 6.Końcowa strona gdzie mamy do losowania dobre wiadomości oraz miejsce na wpis swojego pomysłu
+### 6.Końcowa strona gdzie mamy animacje losowania dobrych wiadomości oraz miejsce na wpis swojego pomysłu
 
 ## Adresy obrazów użytych na stronie
 ### https://inzynieria.com/uploaded/articles/crop_5/65615.jpg
