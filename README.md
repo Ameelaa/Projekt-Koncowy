@@ -4,7 +4,7 @@
 - Strona ta ma cel aby powiększać świadomość czytelnikowi jak bardzo szkodliwe są niektore rzeczy które na codzień robimy
 - Na końcu jest pole do wpisania swojego indywidualnego pomysłu który jest pokazywany niżej oraz jest los dobrych wiadomości na temat walki z mianami klimatu
 
-## Po kolei
+## PO KOLEI
 ### 1.Strona Główna
 - Opisuje czym jest zmiana klimatu i co powoduje
 ### 2.Pierwszy powód
