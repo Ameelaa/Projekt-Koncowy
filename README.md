@@ -1,8 +1,8 @@
 # Projekt-Końcowy (Autorka : Amelia Komor)
 ## Projekt ten to strona internetowa napisana za pomocą Flask , Html , StyleCSS oraz JavaScript
-- Bedzie można przejść do kolejnych podstron gdzie ich treść bedzie opisywać rzecz która powoduje zmiany klimatyczne i pokazywać eko rozwiązania
-- Strona ta bedzie powiększać świadomość uzytkownikowi jak bardzo szkodliwe są niektore rzeczy które na codzień robimy
-- Na końcu będzie pole do wpisania swojego indywidualnego pomysłu który bedzie pokazywany niżej i dobre wiadomości na temat walki z mianami klimatu
+- Można przejść do kolejnych podstron gdzie ich treść opisuje rzecz która powoduje zmiany klimatyczne i przechodząc dalej pokazuje eko rozwiązania
+- Strona ta ma cel aby powiększać świadomość czytelnikowi jak bardzo szkodliwe są niektore rzeczy które na codzień robimy
+- Na końcu jest pole do wpisania swojego indywidualnego pomysłu który jest pokazywany niżej oraz jest los dobrych wiadomości na temat walki z mianami klimatu
 
 ## Po kolei
 ### 1.Strona Główna
