@@ -5,15 +5,15 @@
 - Na końcu jest pole do wpisania swojego indywidualnego pomysłu który jest pokazywany niżej oraz jest los dobrych wiadomości na temat walki z mianami klimatu
 
 ## PO KOLEI
-### 1.Strona Główna
+### 1. Strona Główna
 - Opisuje czym jest zmiana klimatu i co powoduje
-### 2.Pierwszy powód
+### 2. Pierwszy powód
 - Emisja gazów cieplarnianych
-### 3.Rozwiązanie
-### 4.Drugi Powód
+### 3. Rozwiązanie
+### 4. Drugi Powód
 - Wylesianie
-### 5.Rozwiązanie
-### 6.Końcowa strona gdzie mamy animacje losowania dobrych wiadomości oraz miejsce na wpis swojego pomysłu
+### 5. Rozwiązanie
+### 6. Końcowa strona gdzie mamy animacje losowania dobrych wiadomości oraz miejsce na wpis swojego pomysłu
 
 ## Adresy obrazów użytych na stronie
 ### https://inzynieria.com/uploaded/articles/crop_5/65615.jpg
